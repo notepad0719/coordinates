@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+
+div {
+  background-color: blanchedalmond;
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+}
+
+.div7 {
+  background-color: coral;
+}
